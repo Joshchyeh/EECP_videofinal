@@ -1,4 +1,4 @@
-# EECP_Final
+# EECP_videofinal
 Topic: VDSR - application on video\
 Team: 10\
 Member: B04901189 周忠履、B04204037 葉承鑫
